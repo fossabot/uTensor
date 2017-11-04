@@ -54,6 +54,11 @@ prediction: 7
 Currently, the binary runs the first sample of the [MNIST dataset](http://yann.lecun.com/exdb/mnist/) which contains a handwritten digit of number 7. Ths network architecture is a 3-layer Relu based MLP, as shown below:
 
 ![alt text](https://raw.githubusercontent.com/dmlc/web-data/master/mxnet/image/mlp_mnist.png "mxnet Handwritten Digit Recognition")
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2FuTensor.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2FuTensor?ref=badge_shield)
 
 
  The related Tensorflow training script please refer to the [node-viewer](https://github.com/neil-tan/tf-node-viewer/blob/master/deep_mlp.py) project.
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fapostolisly%2FuTensor.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fapostolisly%2FuTensor?ref=badge_large)
